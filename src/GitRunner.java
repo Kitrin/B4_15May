@@ -5,6 +5,8 @@ public class GitRunner {
 		
 		System.out.println("Inital Build - new project, yeah!");
 		System.out.println("Fix null pointer bug");
+		// work... work... work..
+		System.out.println("Yeah!! Bug is fixed!");
 	}
 
 }
